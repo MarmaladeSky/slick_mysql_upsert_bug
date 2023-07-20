@@ -1,7 +1,7 @@
 val MysqlJdbcVersion = "8.0.33"
 val ScalaVersion = "2.13.10"
-val SlickVersion = "3.3.3"
-val LogbackVersion = "1.2.6"
+val SlickVersion = "3.4.1"
+val LogbackVersion = "1.4.7"
 
 lazy val root = (project in file("."))
   .settings(
